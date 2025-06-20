@@ -15,8 +15,9 @@ Esta lista será atualizada de tempos em tempos. Espero ter lido mais coisas ao 
 
 ## Na lista para ler:
 
+- Implementation Patterns, Kent Beck
 - The Great Game of Business – um dos principais elementos para se criar organizações democráticas
-- Open-Book Management: Coming Business Revolution, The
+- Open-Book Management: Coming Business Revolution
 - The Goal: A Process of Ongoing Improvement
 - The End of Management and the Rise of Organizational Democracy
 - Managers Not MBAs: A Hard Look at the Soft Practice of Managing and Management Development – preciso ler pelo menos um Mintzberg
