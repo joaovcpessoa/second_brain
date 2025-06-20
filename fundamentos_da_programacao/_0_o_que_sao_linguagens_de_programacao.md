@@ -1,0 +1,3 @@
+# Descrição
+
+As linguagens de programação são ferramentas fundamentais utilizadas para instruir computadores a executar tarefas, servindo como uma ponte entre humanos e máquinas. No entanto, assim como pessoas possuem dificuldade em se comunicar com outras pessoas, muitos programadores possuem dificuldade de se comunicar com as máquinas, ou porque não sabem, ou simplesmente não sabem o suficiente e se negam a aceitar isso e começar uma rotina disciplinada de estudos para reduzir seu grau de ignorancia no assunto. Então eu vim aqui colocar dividir umas ideias com aqueles interessados o bastante em aprender de verdade o que e como funciona o mundo da programação.
