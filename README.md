@@ -1,6 +1,6 @@
 # Objetivo:
 
-O objetivo deste repositório é criar uma espécie de "segundo cérebro", uma base de conhecimento pessoal organizada, interconectada e acessível, que permita:
+O objetivo deste repositório é criar uma espécie de "banco de informações", uma base de conhecimento pessoal organizada, interconectada e acessível, que permita:
 
 - Armazenar ideias, aprendizados, referências e insights de forma estruturada;
 - Facilitar a recuperação e conexão de informações ao longo do tempo;
