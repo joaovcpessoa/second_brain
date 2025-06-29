@@ -3,19 +3,20 @@
 Para quem se interessa por assuntos relacionados a tecnologia, gerenciamento, administração, processos, tenho explorado nos meus posts, eis as minhas referências.
 Esta lista será atualizada de tempos em tempos. Espero ter lido mais coisas ao passo de que a lista para ler deva crescer cada vez mais...
 
-## Lendo:
+### Lendo
 
 - C completo e total - O primeiro livro de programação que li. Um exemplo de literatura técnica.
 - Código Limpo - Um tapa na cara de um programador júnior, necessário para quem não teve bons professores (a maioria)
 - Arquitetura Limpa - O início do caminho para a compreensão dos 'porquês'
 
-## Lidos
+### Lidos
 
 
 
-## Na lista para ler:
+### Na lista para ler
 
-- Implementation Patterns, Kent Beck
+- Shell Scripting Expert Recipes for Linux, Bash and More
+- Implementation Patterns
 - The Great Game of Business – um dos principais elementos para se criar organizações democráticas
 - Open-Book Management: Coming Business Revolution
 - The Goal: A Process of Ongoing Improvement
@@ -48,6 +49,10 @@ Esta lista será atualizada de tempos em tempos. Espero ter lido mais coisas ao 
 - The Visible Ops Handbook: Starting ITIL in 4 Practical Steps
 - Sistema Toyota de Produção: do Ponto de Vista da Engenharia de Produção – antes de entender uma especialização – software – melhor entender produção em geral
 - The Elegant Universe: Superstrings, Hidden Dimensions, and the Quest for the Ultimate Theory
+
+### Considerados como livros de consulta
+
+- progit.pdf
 
 ## Conclusão 
 
