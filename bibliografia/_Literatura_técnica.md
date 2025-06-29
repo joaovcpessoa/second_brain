@@ -1,6 +1,4 @@
-# Livros de Referência
-
-Para quem se interessa por assuntos relacionados a tecnologia, gerenciamento, administração, processos, tenho explorado nos meus posts, eis as minhas referências.
+Para quem se interessa por assuntos relacionados a tecnologia, gerenciamento, administração, processos, eis as minhas referências.
 Esta lista será atualizada de tempos em tempos. Espero ter lido mais coisas ao passo de que a lista para ler deva crescer cada vez mais...
 
 ### Lendo
