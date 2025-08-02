@@ -1,4 +1,6 @@
-# Scripts Shell
+# Shell
+
+## The history of unix, Gnu, and Linux
 
 Se por algum motivo tu não tem a menor noção sobre comandos em sistemas Unix\Linux, suma daqui e volte quando tiver!
 
@@ -103,3 +105,10 @@ primeiro2.sh
 #!/bin/sh # Este é um comentário! echo "Olá Mundo" # Este também é um comentário! echo "Olá Mundo" echo "Olá * Mundo" echo Olá * Mundo echo Olá Mundo echo "Olá" Mundo echo Olá " " Mundo echo "Olá " * " Mundo" echo `olá` mundo echo 'olá' mundo
  
 Está tudo como você esperava? Se não, não se preocupe! Estes são apenas alguns dos aspectos que abordaremos neste tutorial... e sim, usaremos comandos mais poderosos do que echo!
+
+
+## Referências:
+
+- Steve Parker - Shell Scripting: Expert Recipes for Linux, Bash, and More
+- Gleydson Mazioli da Silva - Guia foca
+-  William Shotts - The Linux Command Line

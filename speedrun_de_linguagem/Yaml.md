@@ -1,23 +1,13 @@
-### Yaml
+# Chega no ouvido de alguém e fala: "Yaml?!"
 
-Neste documento vou explicar tudo sobre o YAML, veremos para que serve ele serve e veremos a sintaxe de como escrever um arquivo **.yml** válido, isso é um conhecimento muito importante se você utiliza **Docker, Kubernetes, Ansible e Prometheus,** temos os arquivos de configuração de exemplo, todos escritos em yml, porque se tornou um formato amplamente usado para escrever configurações para muitas ferramentas e aplicativos DevOps diferentes, é por isso que, ao usar essas ferramentas, é importante entender os detalhes da sintaxe e seus principais conceitos em geral.?
+Afinal, para que serve essa linguagem? Se...? Não! Talvez... Definitivamente não!
+É um conhecimento muito importante se você pertence ao grupamento de elite conhecido como "Esquadrão DevOps".
 
-### O que é YAML?
+### Definição
 
-Yaml é uma linguagem de serialização, assim como a linguagem de serialização XML e JSON, mas o que é isso?
-
-### O que é uma linguagem de serialização?
-
-Basicamente significa que aplicativos escritos com diferentes linguagens de tecnologias, etc., que possuem estruturas de dados diferentes, podem transferir dados entre si usando um formato comum/padrão e os formatos mais populares são yml, jason e xml.
-
-O nome yaml na verdade significa “YAML AIN´T MARKUP LANGUAGE”, ou seja, yaml não é linguagem de marcação. Você pode criar o arquivo yaml com um desses dois formatos de extensões: **.yaml  .yml**
-
-### Comparação entre YAML e outras extensões
-
-Um dos principais motivos pelos quais a popularidade do yaml aumentou tanto nos últimos anos é que ele é super legível e intuitivo, o que o torna uma ótima opção para escrever arquivos de configuração para todas as ferramentas DevOps recentes.
-
- Para mostrar um exemplo e também uma comparação entre YML, XML e JSON:
-
+Yaml é uma linguagem de serialização, assim como a linguagem de serialização XML e JSON, mas o que é isso? Basicamente significa que aplicativos escritos com diferentes linguagens de tecnologias, etc., que possuem estruturas de dados diferentes, podem transferir dados entre si usando um formato comum/padrão e os formatos mais populares são yml, jason e xml. O nome yaml na verdade significa “YAML AIN´T MARKUP LANGUAGE”, ou seja, yaml não é linguagem de marcação. Você pode criar o arquivo yaml com um desses dois formatos de extensões: **.yaml  .yml**.<br>
+Um dos principais motivos pelos quais a popularidade do yaml aumentou tanto nos últimos anos é que ele é super legível e intuitivo, o que o torna uma ótima opção para escrever arquivos de configuração para todas as ferramentas DevOps recentes.<br>
+Para mostrar um exemplo e também uma comparação entre YML, XML e JSON:
 É assim que um arquivo yaml se parece, é muito direto e bem limpo:
 
 ```yaml

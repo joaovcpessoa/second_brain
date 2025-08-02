@@ -1,4 +1,6 @@
-# Fundamentos
+# Java
+
+Devo ressaltar que só estou aqui graças aos livros <i>Código Limpo</i> e <i>Arquitetura Limpa</i>, ambos do Robert C. Martin, o famoso <i>Uncle Bob</i>. Desde já gostaria de demonstrar minha admiração por ele e meu desprezo por essa maldita linguagem, me sinto todo cagado quando estou escrevendo ela. Dito isso, podemos seguir.
 
 Java é uma linguagem de programação popular, criada em 1995. Ela é de propriedade da Oracle, e mais de 3 bilhões de dispositivos executam Java.
 
@@ -314,7 +316,7 @@ Existem oito tipos de dados primitivos em Java:
 # POO
 
 
-# Cllections + Generics + Streams
+# Collections + Generics + Streams
 
 
 # Threads e Concorrência

@@ -12,6 +12,8 @@ Muitas correntes literárias e filosóficas só floresceram porque leitores e es
 
 >Obs.: Pensei até em colocar um link de afiliado da Amazon (já que quase sempre compro livros por lá), mas simplesmente tenho preguiça. Se tiver interesse tu mesmo procura.
 
+Aceito recomendações! Irei avaliar e talvez adicione na lista para ler.
+
 ### Lendo
 
 - Como Platão falava de filosofia
