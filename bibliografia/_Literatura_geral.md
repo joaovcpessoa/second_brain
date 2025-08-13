@@ -14,10 +14,4 @@ Muitas correntes literárias e filosóficas só floresceram porque leitores e es
 
 Aceito recomendações! Irei avaliar e talvez adicione na lista para ler.
 
-### Lendo
-
-- Como Platão falava de filosofia
-
-### Lidos
-
-### Na lista para ler
+### Lista
